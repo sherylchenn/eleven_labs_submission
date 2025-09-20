@@ -97,7 +97,7 @@
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
-    "@ianvs/prettier-plugin-sort-imports": "^4.4.1",
+    "@ianvs/prettier-plugin-sort-imports": "^4.7.0",
     "@tailwindcss/postcss": "^4",
     "@types/lodash": "^4.17.7",
     "@types/mdx": "^2.0.13",
